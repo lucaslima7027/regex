@@ -1,0 +1,22 @@
+{
+   "person": [
+       {
+        "nome": "Lucas",
+        "idade": "22",
+        "situacao": "student"
+    },
+
+    {
+        "nome": "John",
+        "idade": "52",
+        "situacao": "executive"
+    },
+
+    {
+        "nome": "Anna",
+        "idade": "32",
+        "situacao": "manager"
+    }
+
+   ]
+}
